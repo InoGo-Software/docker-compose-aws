@@ -1,2 +1,2 @@
-docker build -t inogo/docker-compose-aws:1.24.0 .
-docker push inogo/docker-compose-aws:1.24.0
+docker build -t inogo/docker-compose-aws:2.25.0 .
+docker push inogo/docker-compose-aws:2.25.0
